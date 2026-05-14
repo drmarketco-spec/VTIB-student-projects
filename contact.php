@@ -398,7 +398,7 @@
     <div class="navbar-row">
 
       <!-- Brand logo + name -->
-      <a href="index.html" class="brand">
+      <a href="http://localhost/vtib-student-projects/index.php" class="brand">
         <div class="brand-logo">
           <img src="img/logo.png" alt="VTIB" onerror="this.style.display='none'">
           <span id="brandFallback" style="display:none">V</span>
@@ -408,17 +408,17 @@
 
       <!-- Desktop nav links -->
       <ul class="main-nav" id="mainNav">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="vtib-about.html">About</a></li>
-        <li><a href="index.html#services">Services</a></li>
-        <li><a href="Project.html">Projects</a></li>
-        <li><a href="contact.html" class="active">Contact</a></li>
+        <li><a href="http://localhost/vtib-student-projects/index.php">Home</a></li>
+          <li><a href="http://localhost/vtib-student-projects/vtib-about.php">About</a></li>
+          <li><a href="http://localhost/vtib-student-projects/index.php#services">Services</a></li>
+          <li><a href="http://localhost/vtib-student-projects/Project.php" class="active">Projects</a></li>
+          <li><a href="http://localhost/vtib-student-projects/contact.php">Contact</a></li>
         <!-- CTA shown only inside the mobile drawer -->
-        <li><a href="Project.html" class="nav-cta mobile-cta"><i class="bi bi-grid-fill"></i> Browse Projects</a></li>
+        <li><a href="http://localhost/vtib-student-projects/Project.php" class="nav-cta mobile-cta"><i class="bi bi-grid-fill"></i> Browse Projects</a></li>
       </ul>
 
       <!-- CTA button (desktop only) -->
-      <a href="Project.html" class="nav-cta d-none d-lg-inline-flex">
+      <a href="http://localhost/vtib-student-projects/Project.php" class="nav-cta d-none d-lg-inline-flex">
         <i class="bi bi-grid-fill"></i> Browse Projects
       </a>
 
