@@ -50,7 +50,7 @@ $featured_projects = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <div class="topbar-contacts">
           <a href="tel:+237650857613"><i class="bi bi-telephone-fill"></i>(+237) 650857613, 679318844</a>
           <a href="/cdn-cgi/l/email-protection#670e0901082711130e054904080a"><i class="bi bi-envelope-fill"></i><span
-              class="__cf_email__" data-cfemail="a2cbccc4cde2d4d6cbc08cc1cdcf">[email&#160;protected]</span></a>
+              class="__cf_email__" data-cfemail="a2cbccc4cde2d4d6cbc08cc1cdcf">scolarite@vtib-eportal.net</span></a>
         </div>
         <div class="topbar-search">
           <i class="bi bi-search"></i>
@@ -75,7 +75,7 @@ $featured_projects = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <ul class="main-nav" id="mainNav">
           <li><a href="http://localhost/vtib-student-projects/index.php" class="active">Home</a></li>
           <li><a href="http://localhost/vtib-student-projects/vtib-about.php">About</a></li>
-          <li><a href="#services">Services</a></li>
+          <li><a href="http://localhost/vtib-student-projects/Project.php">Projects</a></li>
           <li><a href="http://localhost/vtib-student-projects/contact.php">Contact</a></li>
           <!-- CTA shown only inside the mobile drawer -->
           <li><a href="http://localhost/vtib-student-projects/Project.php" class="nav-cta mobile-cta">
@@ -482,10 +482,10 @@ $featured_projects = $stmt->fetchAll(PDO::FETCH_ASSOC);
           <div class="footer-col">
             <h5>Programs</h5>
             <ul>
-              <li><a href="#">Software Engineering</a></li>
-              <li><a href="#">Networking &amp; Security</a></li>
-              <li><a href="#">Computer Graphics</a></li>
-              <li><a href="#">And more…</a></li>
+              <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">Software Engineering</a></li>
+              <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">Networking &amp; Security</a></li>
+              <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">Computer Graphics</a></li>
+              <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">And more…</a></li>
             </ul>
           </div>
         </div>
@@ -497,7 +497,7 @@ $featured_projects = $stmt->fetchAll(PDO::FETCH_ASSOC);
               <li><a href="tel:+237679318844">679318844 / 695593749</a></li>
               <li><a href="tel:+237650857613">650857613 / 651857081</a></li>
               <li><a href="/cdn-cgi/l/email-protection#fc95929a93bc8a88959ed29f9391"><span class="__cf_email__"
-                    data-cfemail="41282f272e01373528236f222e2c">[email&#160;protected]</span></a></li>
+                    data-cfemail="41282f272e01373528236f222e2c">scolarite@vtib-eportal.net</span></a></li>
               <li><a href="#">Ange Raphael, Douala</a></li>
             </ul>
           </div>

@@ -383,7 +383,7 @@
     <div class="container topbar-inner">
       <div class="topbar-contacts">
         <a href="tel:+237650857613"><i class="bi bi-telephone-fill"></i>(+237) 650857613, 679318844</a>
-        <a href="/cdn-cgi/l/email-protection#b6dfd8d0d9f6c0c2dfd498d5d9db"><i class="bi bi-envelope-fill"></i><span class="__cf_email__" data-cfemail="b5dcdbd3daf5c3c1dcd79bd6dad8">[email&#160;protected]</span></a>
+        <a href="/cdn-cgi/l/email-protection#b6dfd8d0d9f6c0c2dfd498d5d9db"><i class="bi bi-envelope-fill"></i><span class="__cf_email__" data-cfemail="b5dcdbd3daf5c3c1dcd79bd6dad8">scolarite@vtib-eportal.net</span></a>
       </div>
       <div class="topbar-search">
         <i class="bi bi-search"></i>
@@ -407,20 +407,23 @@
       </a>
 
       <!-- Desktop nav links -->
-      <ul class="main-nav" id="mainNav">
-        <li><a href="http://localhost/vtib-student-projects/index.php">Home</a></li>
+          <ul class="main-nav" id="mainNav">
+          <li><a href="http://localhost/vtib-student-projects/index.php" >Home</a></li>
           <li><a href="http://localhost/vtib-student-projects/vtib-about.php">About</a></li>
-          <li><a href="http://localhost/vtib-student-projects/index.php#services">Services</a></li>
-          <li><a href="http://localhost/vtib-student-projects/Project.php" class="active">Projects</a></li>
-          <li><a href="http://localhost/vtib-student-projects/contact.php">Contact</a></li>
-        <!-- CTA shown only inside the mobile drawer -->
-        <li><a href="http://localhost/vtib-student-projects/Project.php" class="nav-cta mobile-cta"><i class="bi bi-grid-fill"></i> Browse Projects</a></li>
-      </ul>
+          <li><a href="http://localhost/vtib-student-projects/Project.php">Projects</a></li>
+          <li><a href="http://localhost/vtib-student-projects/contact.php" class="active">Contact</a></li>
+          <!-- CTA shown only inside the mobile drawer -->
+          <li><a href="http://localhost/vtib-student-projects/Project.php" class="nav-cta mobile-cta">
+              Browse Projects</a></li>
+          <li><a href="http://localhost/vtib-student-projects/login.php" class="nav-cta mobile-cta">
+              Login</a></li>
 
-      <!-- CTA button (desktop only) -->
-      <a href="http://localhost/vtib-student-projects/Project.php" class="nav-cta d-none d-lg-inline-flex">
+        </ul>
+
+        <!-- Desktop CTA (hidden on mobile via CSS) -->
+        <!-- <a href="login.php" class="nav-cta d-none d-lg-inline-flex">
         <i class="bi bi-grid-fill"></i> Browse Projects
-      </a>
+      </a> -->
 
       <!-- Hamburger (mobile) -->
       <button class="nav-ham" id="navHam" aria-label="Open menu">
@@ -474,7 +477,7 @@
           <div class="info-icon"><i class="bi bi-envelope-fill"></i></div>
           <div>
             <h5>Email</h5>
-            <a href="/cdn-cgi/l/email-protection#8de4e3ebe2cdfbf9e4efa3eee2e0"><span class="__cf_email__" data-cfemail="6d04030b022d1b19040f430e0200">[email&#160;protected]</span></a>
+            <a href="/cdn-cgi/l/email-protection#8de4e3ebe2cdfbf9e4efa3eee2e0"><span class="__cf_email__" data-cfemail="6d04030b022d1b19040f430e0200">scolarite@vtib-eportal.net</span></a>
           </div>
         </div>
 
@@ -617,10 +620,10 @@
         <div class="footer-col">
           <h5>Programs</h5>
           <ul>
-            <li><a href="#">Software Engineering</a></li>
-            <li><a href="#">Networking &amp; Security</a></li>
-            <li><a href="#">Computer Graphics</a></li>
-            <li><a href="#">And more…</a></li>
+            <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">Software Engineering</a></li>
+            <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">Networking &amp; Security</a></li>
+            <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">Computer Graphics</a></li>
+            <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">And more…</a></li>
           </ul>
         </div>
       </div>
@@ -632,7 +635,7 @@
           <ul>
             <li><a href="tel:+237679318844"><i class="bi bi-telephone-fill me-1"></i>679318844 / 695593749</a></li>
             <li><a href="tel:+237650857613"><i class="bi bi-telephone-fill me-1"></i>650857613 / 651857081</a></li>
-            <li><a href="/cdn-cgi/l/email-protection#b6dfd8d0d9f6c0c2dfd498d5d9db"><i class="bi bi-envelope-fill me-1"></i><span class="__cf_email__" data-cfemail="f29b9c949db284869b90dc919d9f">[email&#160;protected]</span></a></li>
+            <li><a href="/cdn-cgi/l/email-protection#b6dfd8d0d9f6c0c2dfd498d5d9db"><i class="bi bi-envelope-fill me-1"></i><span class="__cf_email__" data-cfemail="f29b9c949db284869b90dc919d9f">scolarite@vtib-eportal.net</span></a></li>
             <li><a href="#"><i class="bi bi-geo-alt-fill me-1"></i>Ange Raphael, Douala</a></li>
           </ul>
         </div>

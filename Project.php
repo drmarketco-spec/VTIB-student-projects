@@ -117,7 +117,7 @@ $all_projects = $stmt->fetchAll(PDO::FETCH_ASSOC);
       <div class="container topbar-inner">
         <div class="topbar-contacts">
           <a href="tel:+237650857613"><i class="bi bi-telephone-fill"></i>(+237) 650857613, 679318844</a>
-          <a href="#"><i class="bi bi-envelope-fill"></i>info@vtib.cm</a>
+          <a href="#"><i class="bi bi-envelope-fill"></i>scolarite@vtib-eportal.net</a>
         </div>
         <div class="topbar-search">
           <i class="bi bi-search"></i>
@@ -139,7 +139,6 @@ $all_projects = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <ul class="main-nav" id="mainNav">
           <li><a href="http://localhost/vtib-student-projects/index.php">Home</a></li>
           <li><a href="http://localhost/vtib-student-projects/vtib-about.php">About</a></li>
-          <li><a href="http://localhost/vtib-student-projects/index.php#services">Services</a></li>
           <li><a href="http://localhost/vtib-student-projects/Project.php" class="active">Projects</a></li>
           <li><a href="http://localhost/vtib-student-projects/contact.php">Contact</a></li>
           <?php if (isset($_SESSION['user_id'])): ?>
@@ -285,10 +284,10 @@ $all_projects = $stmt->fetchAll(PDO::FETCH_ASSOC);
           <div class="footer-col">
             <h5>Programs</h5>
             <ul>
-              <li><a href="#">Software Engineering</a></li>
-              <li><a href="#">Networking &amp; Security</a></li>
-              <li><a href="#">Computer Graphics</a></li>
-              <li><a href="#">And more…</a></li>
+              <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">Software Engineering</a></li>
+              <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">Networking &amp; Security</a></li>
+              <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">Computer Graphics</a></li>
+              <li><a href="https://vtib-eportal.net/certification_detail.php?code=BeWD">And more…</a></li>
             </ul>
           </div>
         </div>
@@ -299,7 +298,7 @@ $all_projects = $stmt->fetchAll(PDO::FETCH_ASSOC);
             <ul>
               <li><a href="tel:+237679318844">679318844 / 695593749</a></li>
               <li><a href="tel:+237650857613">650857613 / 651857081</a></li>
-              <li><a href="#">info@vtib.cm</a></li>
+              <li><a href="mailto:scolarite@vtib-eportal.net">scolarite@vtib-eportal.net</a></li>
               <li><a href="#">Ange Raphael, Douala</a></li>
             </ul>
           </div>
